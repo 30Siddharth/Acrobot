@@ -1,7 +1,6 @@
 # Acrobot LQR
 Author: Siddharth Singh
-![Pendulum Starting near goal](images/pendunearpi.png)
-![Evolution of states with time](images/statepen00.png)
-<img src="images/pendunearpi.png" width="50" height="50">
+<img src="images/pendunearpi.png" width="200" height="200">
+<img src="images/statepen00.png" width="200" height="200">
 # Acrobot iLQR
 Authors: Siddharth Singh (hemrak@seas.upenn.edu) and Shubhranshu Mahapatra (subhu@seas.upenn.edu) 
